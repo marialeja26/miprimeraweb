@@ -1,0 +1,28 @@
+:root{
+    --purple: #a685e2;
+    --rosa: #ea86b6;
+    --piel: #ffe6e6;
+    --fuerte: #6155a6;
+}
+
+body{    
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    display: inline-block;
+    color: var(--fuerte);
+}
+
+h2{
+    color: var(--rosa);
+}
+
+.nav-gb :hover{
+    background-color: #ea86b6;  
+    color: white;
+}
+
+.main-contain{
+    height: 100vh;
+}
